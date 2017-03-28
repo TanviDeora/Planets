@@ -2,3 +2,5 @@ Title: Example for Software carpentry with Dave
 Author: Tanvi Deora & Douglas Strodtman
 Abstract: This is a demo text file generated to learn version control during the software carpentry course with 
 Dave.
+
+Just adding a bit of text here.
